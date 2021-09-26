@@ -21,7 +21,7 @@ ser preenchidos obrigatóriamente, caso contrário as informações não poderam
 ![eventoimg3](https://user-images.githubusercontent.com/47039818/134826984-e21c6541-69da-46f1-8dd6-ac524e41585e.png)
 
 ## Vídeo de Apresentação do Projeto
-
+https://www.linkedin.com/posts/tiagorb_java-css-html-activity-6847931470481276928-i38m
 
 
 
