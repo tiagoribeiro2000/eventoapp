@@ -17,6 +17,8 @@ ser preenchidos obrigatóriamente, caso contrário as informações não poderam
 ## Página Cadastro de Eventos
 ![eventosimg2](https://user-images.githubusercontent.com/47039818/134826679-75853d77-23a6-433f-8670-814d6977a223.png)
 
+## Página de Detalhes do Evento com formulário de cadastro de convidados
+![eventoimg3](https://user-images.githubusercontent.com/47039818/134826984-e21c6541-69da-46f1-8dd6-ac524e41585e.png)
 
 ## Vídeo de Apresentação do Projeto
 
